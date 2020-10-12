@@ -1,0 +1,37 @@
+.contact__container{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-top: 120px;
+    margin-left: 12%;
+}
+.contact__form{
+    margin-left: 150px;
+}
+.contact__title h1{
+    background: -webkit-linear-gradient(white, #38495a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-family: "lato",sans-serif;
+    font-size: 50px;
+    letter-spacing: 5px;
+    margin-bottom: 20px !important;
+
+}
+
+.contact__title p{
+    color: grey;
+    font-size: 20px;
+    font-family: "lato",sans-serif;
+    margin: 8px auto!important;
+}
+.label{
+    background: -webkit-linear-gradient(white, #38495a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+     font-weight: 600;
+}
+.inputbox{
+      width: 350px !important;
+}

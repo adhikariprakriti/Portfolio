@@ -1,0 +1,38 @@
+
+#title {
+  position: absolute;
+  color: #FFF;
+  font-family: "lato", sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  letter-spacing: 5px;
+  padding-left: 10px;
+  margin-top: 140px;
+  margin-left: 12%;
+}
+.contactButton{
+    margin-top: 25px;
+}
+.contactButton button{
+     background-color: transparent;
+     border: 1px solid #06C5A9;
+     padding: 15px 20px;
+     color: #06C5A9;
+     font-size: 18px;
+     
+}
+
+#title span {
+  background: -webkit-linear-gradient(white, #38495a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes animStar {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-2000px);
+  }
+}

@@ -1,0 +1,32 @@
+
+.sidebar{
+    width: 5%;
+    background-color:#181818;
+    height: 100vh;
+    position: fixed;
+    
+}
+
+.navbar {
+    list-style: none;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.navbar li{
+    margin-bottom: 28px;
+    color: #a5a5a5;
+    font-size: 24px;
+
+}
+li:hover{
+    color: #06C5A9;
+}
+.socialMedias{
+    list-style: none;
+  
+}
+.socialMedias li{
+    margin-bottom: 15px;
+    color: #a5a5a5;
+    font-size: 18px;
+}

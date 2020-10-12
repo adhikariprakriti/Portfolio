@@ -1,0 +1,10 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+}
+
+.projects__row{
+    display: flex;
+    flex-direction: row;
+    margin-left: 6%;
+}
